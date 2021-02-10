@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="44" viewBox="0 0 40 44">
+  <g id="메뉴" transform="translate(-1845 -14)">
+    <g id="Icon_ionic-ios-menu" data-name="Icon ionic-ios-menu" transform="translate(1846.5 17.875)">
+      <path id="패스_1" data-name="패스 1" d="M31.333,12.375H5.667A1.15,1.15,0,0,1,4.5,11.25h0a1.15,1.15,0,0,1,1.167-1.125H31.333A1.15,1.15,0,0,1,32.5,11.25h0A1.15,1.15,0,0,1,31.333,12.375Z" transform="translate(0)" fill="#fff"/>
+      <path id="패스_2" data-name="패스 2" d="M31.333,19.125H5.667A1.15,1.15,0,0,1,4.5,18h0a1.15,1.15,0,0,1,1.167-1.125H31.333A1.15,1.15,0,0,1,32.5,18h0A1.15,1.15,0,0,1,31.333,19.125Z" transform="translate(0 0.625)" fill="#fff"/>
+      <path id="패스_3" data-name="패스 3" d="M31.333,25.875H5.667A1.15,1.15,0,0,1,4.5,24.75h0a1.15,1.15,0,0,1,1.167-1.125H31.333A1.15,1.15,0,0,1,32.5,24.75h0A1.15,1.15,0,0,1,31.333,25.875Z" transform="translate(0 1.25)" fill="#fff"/>
+    </g>
+    <g id="사각형_1" data-name="사각형 1" transform="translate(1845 14)" fill="none" stroke="#fff" stroke-width="2">
+      <rect width="40" height="44" rx="5" stroke="none"/>
+      <rect x="1" y="1" width="38" height="42" rx="4" fill="none"/>
+    </g>
+  </g>
+</svg>

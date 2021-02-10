@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="44" viewBox="0 0 40 44">
+  <g id="X_icon" transform="translate(-3761 231)">
+    <g id="Icon_ionic-ios-menu" data-name="Icon ionic-ios-menu" transform="translate(3766 -223)">
+      <path id="패스_1" data-name="패스 1" d="M31.514,8.072,1.608,2.837A2.119,2.119,0,0,1,.019,1.19h0A.937.937,0,0,1,1.149.02L31.055,5.255A2.119,2.119,0,0,1,32.644,6.9h0A.937.937,0,0,1,31.514,8.072Z" transform="translate(5.092 0.25) rotate(39)" fill="#0a112d"/>
+      <path id="패스_3" data-name="패스 3" d="M31.055,2.837,1.149,8.072A.937.937,0,0,1,.019,6.9h0A2.119,2.119,0,0,1,1.608,5.255L31.514.02a.937.937,0,0,1,1.13,1.17h0A2.119,2.119,0,0,1,31.055,2.837Z" transform="translate(0 20.556) rotate(-39)" fill="#0a112d"/>
+    </g>
+    <g id="사각형_1" data-name="사각형 1" transform="translate(3761 -231)" fill="none" stroke="#0a112d" stroke-width="2">
+      <rect width="40" height="44" rx="5" stroke="none"/>
+      <rect x="1" y="1" width="38" height="42" rx="4" fill="none"/>
+    </g>
+  </g>
+</svg>

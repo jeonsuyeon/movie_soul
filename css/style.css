@@ -46,10 +46,10 @@ body {
     position: absolute;
     left: 26%; top: 75%;
     transform: translateY(-50%);
-    outline: 2px solid rgb(217, 232, 252);
+    outline: 2px solid #F6F6F6;
   }
 .text_box h1 {
- color: rgb(217, 232, 252) ;
+ color:#F6F6F6 ;
  text-shadow: 2px 2px 4px #000;
 }  
 #main_header > .text_box {

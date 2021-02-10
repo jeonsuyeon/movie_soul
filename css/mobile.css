@@ -1,12 +1,12 @@
 /* mobile.css */
 
 body {
-    background-image: url(../imges/soul_movi.jpg);
+    background-image: url(../imges/soul_mobe.jpg);
     background-size: cover;
   }
  #main_header > .text_box {
     position: absolute;
-    left:10%; right: 10%;
+    left:10%; right: 10%; top: 72%;
     margin: 0 auto;
     outline: 2px solid white;
     text-align: center;
